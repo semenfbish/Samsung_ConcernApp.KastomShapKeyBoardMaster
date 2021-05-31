@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyboardCastomShop</string>
+    <string name="ime">CastomVintage</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
